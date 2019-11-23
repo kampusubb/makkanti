@@ -1,41 +1,41 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WFT5Xiq.png" group-title="INDOTV",SCTV (Opt-3)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WFT5Xiq.png" group-title="IANONE",SCTV (Opt-3)
 http://210.210.155.35/qwr9ew/s/s103/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4KW8Qnr.png" group-title="INDOTV",RCTI (Opt-3)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4KW8Qnr.png" group-title="IANONE",RCTI (Opt-3)
 http://id6.indostreamingtv.com/live/rcti/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cpSiuF1.png" group-title="INDOTV",Trans 7 (Opt-3)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cpSiuF1.png" group-title="IANONE",Trans 7 (Opt-3)
 http://210.210.155.35/qwr9ew/s/s101/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9ESSmBG.png" group-title="INDOTV",Trans TV (Opt-5)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9ESSmBG.png" group-title="IANONE",Trans TV (Opt-5)
 http://video.detik.com/transtv/smil:transtv.smil/chunklist_w1982763047_b384000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NvE0OeL.png" group-title="INDOTV",Global TV (Opt-3)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NvE0OeL.png" group-title="IANONE",Global TV (Opt-3)
 http://id6.indostreamingtv.com/live/tv1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="INDOTV",TVRI (Opt-3)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="IANONE",TVRI (Opt-3)
 http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h7RKQpQ.png" group-title="INDOTV",CNBC Indonesia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h7RKQpQ.png" group-title="IANONE",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png" group-title="INDONESIA",CNN Indonesia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png" group-title="IANONE",CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GB6gAEG.png" group-title="INDOTV",MetroTV (Opt-4)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GB6gAEG.png" group-title="IANONE",MetroTV (Opt-4)
 http://202.80.222.130/000001/2/ch14041511515576869807/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6yIpjUJ.png" group-title="INDOTV",Net TV (Opt-4)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6yIpjUJ.png" group-title="IANONE",Net TV (Opt-4)
 http://202.80.222.130/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ory3MhB.png" group-title="INDOTV",Kompas (Opt-1)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ory3MhB.png" group-title="IANONE",Kompas (Opt-1)
 http://202.80.222.182/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ox8luDM.png" group-title="INDOTV",iNews TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ox8luDM.png" group-title="IANONE",iNews TV
 http://202.80.222.175/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pfiT7Kx.png" group-title="INDOTV",JTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pfiT7Kx.png" group-title="IANONE",JTV
 http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
 
