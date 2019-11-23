@@ -6,7 +6,7 @@ http://210.210.155.35/qwr9ew/s/s103/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4KW8Qnr.png" group-title="IANONE",RCTI (Opt-3)
 http://id6.indostreamingtv.com/live/rcti/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cpSiuF1.png" group-title="INDONESIA",Trans 7 (Opt-4)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cpSiuF1.png" group-title="IANONE",Trans 7 (Opt-4)
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w464718372_b384000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9ESSmBG.png" group-title="IANONE",Trans TV (Opt-5)
