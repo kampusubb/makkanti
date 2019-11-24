@@ -28,7 +28,7 @@ http://202.80.222.130/000001/2/ch14041511545447343123/1001.m3u8?virtualDomain=00
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HsqNM8Hc/globaltv.png" group-title="STASIUN NASIONAL", GLOBAL TV
 http://202.80.222.175/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 group-title="STASIUN NASIONAL", JTV SURABAYA
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKv7J82B/tvone.png" group-title="STASIUN NASIONAL", JTV SURABAYA
 http://202.80.222.175/000001/2/ch00000090990000001731/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKv7J82B/tvone.png" group-title="STASIUN NASIONAL", TV ONE
@@ -76,5 +76,5 @@ http://202.80.222.169:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomai
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_balitv_big1.png" group-title="STASIUN NASIONAL", Bali TV
 http://202.80.222.171/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="" group-title="STASIUN NASIONAL",SUPER SOCCER TV
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_balitv_big1.png" group-title="STASIUN NASIONAL",SUPER SOCCER TV
 http://rr.dens.tv/h/h20/index2.m3u8
